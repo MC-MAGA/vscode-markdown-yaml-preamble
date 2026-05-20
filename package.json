@@ -1,9 +1,10 @@
 {
   "name": "markdown-yaml-preamble",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Markdown yaml Preamble",
   "description": "Renders yaml front matter as a table in the built-in markdown preview",
+  "deprecated": true,
   "keywords": [
     "markdown",
     "yaml",

@@ -1,3 +1,6 @@
+> [!WARNING]
+> This extension is deprecated because this functionality is now built into VS Code 1.121+.
+
 [![](https://vsmarketplacebadge.apphb.com/version/bierner.markdown-yaml-preamble.svg)](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-yaml-premable)
 
 Makes yaml front matter render as a table in VS Code's built-in markdown preview:
